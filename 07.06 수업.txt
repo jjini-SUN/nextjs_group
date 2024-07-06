@@ -1,0 +1,39 @@
+mongodb 로그인
+mongodb+srv://admin:<password>@cluster0.g94atsv.mongodb.net/ 복사해놓고
+
+vs code 에서 npm install mongodb
+
+src와 같은 경로에 initdb.js 파일 생성
+
+'코드 입력'
+
+chat gpt에서 객체 5개 생성
+이미지는 public에 넣을 것임. -> 각 경로를 /images/photo1.jpg 형태로 바꿔놓기
+
+console 쪽에 node initdb.js 실행하고 mongodb 에서 collection에 group 파일 생겼는지 확인
+
+public 폴더에 images 폴더 만들고 그 안에 이미지 5개 넣기
+
+src 폴더 안에 util 폴더 만들고 db.js 파일 만들기
+'코드 입력'
+
+app/group page.js 가 동아리 게시글 페이지
+'return 안의 코드 입력'
+
+src/components 폴더 안에 activities 폴더 만들고 activities-item.js, .module.css 만들고, activities-grid.js, .module.css 랑
+image-picker.js , image-picker.module.css 만들기
+'각 코드 입력'
+
+app/group page.js에 db, activities 코드 입력'
+
+app/group에 page.module.css 파일 만들고
+강사님이 올리신 코드 빠르게 입력
+
+group/[slug] 의 page.js에
+'코드 입력'
+page.module.css
+'코드 입력'
+
+group/share 안에도 page.module.css 만들고
+page.js랑 css에 
+'코드 입력'
